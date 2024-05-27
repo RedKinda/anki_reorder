@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "anki-reorder"
+version = "0.1.0"
+description = ""
+authors = ["red <red@kalab.sk>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+argparse = "^1.4.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
