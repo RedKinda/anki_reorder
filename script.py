@@ -5,7 +5,6 @@ import os
 import sqlite3
 import tempfile
 import time
-from typing import Any
 import zipfile
 
 
